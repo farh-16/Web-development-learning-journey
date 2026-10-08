@@ -1,0 +1,21 @@
+
+h1{
+    color:rgb(25, 169, 106);
+}
+p{
+    color:rgb(10, 22, 132);
+}
+button{
+    color:rgb(233, 178, 13);
+        background-color:rgb(59, 2, 2);
+
+}
+body{
+    background-color:#f7e1d7;
+}
+#heading2{
+    color:rgba(28, 10, 99, 0.982);
+}
+.Myclass{
+    color:brown;
+}
